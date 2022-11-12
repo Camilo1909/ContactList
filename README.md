@@ -25,7 +25,18 @@ npm start
 ```
 De esta manera ya tendremos nuestra base de datos arriba, junto con nuestro backend y frontend.
 
-## Diagramas
+# Diagramas
 
-# Diagrama entidad Relacion
+## Diagrama entidad Relacion
 ![Diagrama entidad Relacion](./Diagrams/EntityRelation.png "Diagrama entidad Relacion")
+
+## Diagrama de secuencia Usuario - (Registro-Ingreso)
+![Diagrama de secuencia Usuario - (Registro-Ingreso)](./Diagrams/SequenceUser.png "Diagrama de secuencia Usuario - (Registro-Ingreso")
+
+## Diagrama de secuencia Contacto - (Crear-Eliminar)
+![Diagrama de secuencia Contacto - (Crear-Eliminar)](./Diagrams/SequenceCreateDeleteContact.png "Diagrama de secuencia Contacto - Crear-Eliminar)")
+
+## Diagrama de secuencia Contacto - (Listar-Editar)
+![Diagrama de secuencia Contacto - (Listar-Editar)](./Diagrams/SequenceGetUpdateContac.png "Diagrama de secuencia Contacto - (Listar-Editar)")
+
+
